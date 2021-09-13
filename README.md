@@ -1,0 +1,1 @@
+This project will use the basic HTML skills learned up to this point in The Odin Project.

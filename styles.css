@@ -1,0 +1,14 @@
+h1 {
+    color: rgb(2, 2, 77);
+    font-size: 100px;
+    text-align: center;
+    background-color: darkslategrey;
+}
+
+a {
+    font-family: "Garamond", "DejaVu Sans", sans-serif;
+    background-color: darkgoldenrod;
+    color: darkslategrey;
+    font-size: large;
+    font-weight: bold;
+}
